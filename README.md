@@ -6,7 +6,7 @@
 
 ## Phantis
 
-Commander Serena's mission is to rescue her captured partner from Moon IV of the **SOTPOK** System, better known as the world of **PHANTIS**, an unusual place inhabited by hostile fauna and exuberant flora.
+Commander Serena's mission is to rescue her expedition partner from Moon IV of the **SOTPOK** System, better known as the world of **PHANTIS**, an unusual place inhabited by hostile fauna and exuberant flora.
 
 ## Double Load FX
 
