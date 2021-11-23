@@ -1,6 +1,8 @@
-# Phantis
+# Phantis (Game Over II)
 
-Commander Serena's mission is to rescue her partner captured on Moon 4 of the SOTPOK System, better known as the world of PHANTIS, an unusual place inhabited by hostile fauna and exuberant flora.
+![Title](https://github.com/DieSkaarj/PhantisEnglishPatch/blob/main/PhantisTitle.png)
+
+*Commander Serena's mission is to rescue her partner captured on Moon IV of the **Sotpok** System, better known as the world of **Phantis**, an unusual place inhabited by hostile fauna and exuberant flora.*
 
 ## English Patch
 English Patch for original CPC Spanish release of Phantis (a.k.a. Game Over II.)
