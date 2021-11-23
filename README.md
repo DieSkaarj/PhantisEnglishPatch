@@ -46,18 +46,18 @@ There are 24 different enemies in **Phantis**. Eliminating them will give you po
 ### Joystick
 
 - Up: Raise, Up, Jump
-- Down: Lower, Crouch down.
+- Down: Lower, Crouch
 - Left: Left
 - Right: Right, Accelerate
 - Button: Laser
 
 ### Preset Keys
 
-- Q = Up, Raise, Jet
-- A = Lower, Crouch down
-- O = Left.
-- P = Right.
-- SPACE = Fire.
+- Q = Raise, Up, Jump
+- A = Lower, Crouch
+- O = Left
+- P = Right
+- SPACE = Fire
 
 ## Design Team
 
