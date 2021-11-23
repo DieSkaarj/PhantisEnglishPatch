@@ -25,18 +25,12 @@ Consisting of 4 zones, your objective is to land on the planet and cross the swa
 
 You must descend the deepest parts of **PHANTIS** and go through 6 different levels until you find and rescue your partner from **PRISON**.
 
-#### 1. Surface
-Mountainous area inhabited by *Space Balls*. Use a rebellious Spaceball to kill them.
-#### 2. Alien Base
-Find the Ionic Turbo Laser and its Proton Charger to arm yourself with full power.
-#### 3. Underground Forest
-You must get an Access Badge in order to go through the Blue Door.
-#### 4. Inland Lake
-Escape from the ferocious jaws of the Plentosaur that lives in the thermal waters of the lake, and also take care of the murderous piranas, until you reach the heliport.
-#### 5. Magma Caves
-The helicopter will fly across the grotto that leads to the volcanic area. Avoid lava bubbles and molten rock slides.
-#### 6. The Prison
-Destroy the red devils that guard the ancient prison so that you and your partner can escape from **PHANTIS**.
+1. **Surface:** Mountainous area inhabited by *Space Balls*. Use a rebellious Spaceball to kill them.
+2. **Alien Base:** Find the Ionic Turbo Laser and its Proton Charger to arm yourself with full power.
+3. **Underground Forest:** You must get an Access Badge in order to go through the Blue Door.
+4. **Inland Lake:** Escape from the ferocious jaws of the Plentosaur that lives in the thermal waters of the lake, and also take care of the murderous piranas, until you reach the heliport.
+5. **Magma Caves:** The helicopter will fly across the grotto that leads to the volcanic area. Avoid lava bubbles and molten rock slides.
+6. **The Prison:** Destroy the red devils that guard the ancient prison so that you and your partner can escape from **PHANTIS**.
 
 ##### GOOD LUCK!
 
