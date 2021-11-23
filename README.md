@@ -95,4 +95,4 @@ In future, I would like to change the keybindings for setting the keyboard and s
 
 ## Installation...
 
-To install this patch you will need to apply the IPS file provided to your copy of Phantis using an IPS utility such as **Lunar IPS.**
+To install this patch you will need to apply the IPS file(s) provided to your copy of Phantis using an IPS utility such as **Lunar IPS.**
