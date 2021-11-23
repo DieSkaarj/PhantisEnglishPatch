@@ -50,7 +50,7 @@ There are 24 different enemies in **Phantis**. Eliminating them will give you po
 English Patch for original CPC Spanish release of Phantis (a.k.a. Game Over II.)
 
 - Replaces *FASE-* graphic.
-- Changes item names to Game Over II names.
+- Changes item names to English.
 - UI titles adapted to English equivalent: "PUNTOS=SCORE, DERECHE=RIGHT, etc..."
 
 Translation by *DieSkaarj*.
