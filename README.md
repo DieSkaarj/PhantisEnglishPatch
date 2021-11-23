@@ -1,10 +1,10 @@
-# Phantis (Game Over II)
+# Phantis
 
 ***PHANTIS** is an incredible 100% video arcade adventure. Face 24 different enemies throughout 4 phases and 6 different levels. Phantis incorporates **DOUBLE LOAD FX**, two programs in one. Double the graphics, double the adventure and maximum addictiveness.*
 
 ![Title](https://github.com/DieSkaarj/PhantisEnglishPatch/blob/main/PhantisTitle.png)
 
-# Phantis
+## Phantis
 
 Commander Serena's mission is to rescue her captured partner from Moon IV of the **SOTPOK** System, better known as the world of **PHANTIS**, an unusual place inhabited by hostile fauna and exuberant flora.
 
