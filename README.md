@@ -37,6 +37,28 @@ You must descend the deepest parts of **Phantis** and go through 6 different lev
 ## Score
 There are 24 different enemies in **Phantis**. Eliminating them will give you points. In the first phase you have 4 lives with an extra life given every 25,000 points. In the second phase you start with 5 lives and can find hearts to get more.
 
+## Control And Movement
+
+- Ship: Raise, Lower, Accelerate and Laser.
+- Adrec Clone: Left, Right, Blade forward (fire), Blade up (fire + up).
+- Serena: Jump, Crouch, Right, Left, Laser.
+
+### Joystick
+
+- Up: Raise, Up, Jump
+- Down: Lower, Crouch down.
+- Left: Left
+- Right: Right, Accelerate
+- Button: Laser
+
+### Preset Keys
+
+- Q = Up, Raise, Jet
+- A = Lower, Crouch down
+- O = Left.
+- P = Right.
+- SPACE = Fire.
+
 ## Design Team
 
 - Programmer - Carlos Abril
