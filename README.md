@@ -83,9 +83,9 @@ English Patch for original CPC Spanish release of Phantis (a.k.a. Game Over II.)
 
 Translation by *DieSkaarj*.
 
-### Notes:
+### Thanks:
 
-In future, I would like to change the keybindings for setting the keyboard and starting the game but that's currently above my paygrade.
+A special thanks is extended to user Urusergi at the <a href="https://www.cpcwiki.eu/forum">CPCwiki forums</a>.
 
 ## Installation...
 
