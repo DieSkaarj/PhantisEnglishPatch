@@ -10,7 +10,7 @@ Commander Serena's mission is to rescue her expedition partner from Moon IV of t
 
 ## Double Load FX
 
-This program has two parts, each act recorded on one side of the tape. To play the second act, it is necessary to discover the access code found at the end of the first act.
+This program has two parts, each part recorded on one side of the tape. To play the second part, it is necessary to discover the access code found at the end of the first one.
 
 ## Phase One:
 
